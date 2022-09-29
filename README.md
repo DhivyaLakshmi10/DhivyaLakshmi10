@@ -1,4 +1,4 @@
-![gitartwork](gitartwork.svg)
+![gitartwork](gitartwork1.svg)
 
 
 Hi there 👋
