@@ -1,3 +1,6 @@
+![gitartwork](gitartwork.svg)
+
+
 Hi there 👋
 
 🔭 I’m currently studying at PSG COLLEGE OF TECHNOLOGY
